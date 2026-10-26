@@ -1,0 +1,2 @@
+Instance,Cities,Configuration,2Opt_Intensity,Seed,Optimal_Tour_Length,Best_Tour_Length,Optimality_Gap_Percent,Runtime_Seconds,Generation_Within_5_Percent,Generation_Within_1_Percent,Generation_Final_Best,Reached_Optimum,TwoOpt_Calls,TwoOpt_Moves
+pr264,264,GA_2OPT_50,0.5,63,49135,49647,1.042027068281266,376.32665008400363,10,,53,False,2500,16543
